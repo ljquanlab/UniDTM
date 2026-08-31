@@ -1,0 +1,6 @@
+Please generate a purely chemical and structural profile for the given molecule with the following sections.
+1. Chemical & Structural Identity: (Chemical class, key functional scaffolds, ring systems, and stereochemistry if applicable).
+2. Physicochemical Properties: (Describe general traits such as molecular weight category, lipophilicity/LogP trends, topological polar surface area (TPSA), and hydrogen-bonding capacity).
+3. Pharmacophore Features: (Detailed spatial arrangement of H-bond donors/acceptors, aromatic rings, hydrophobic patches, and electrostatic properties without linking them to a specific binding pocket).
+4. Molecular Flexibility & Reactivity: (Number of rotatable bonds, potential for structural conformation changes, and any reactive functional groups).
+5. Predicted Drug-Likeness & ADMET Trends: (Compliance with Lipinski's Rule of Five, basic solubility/permeability trends, and structural alerts for toxicity, keeping the context strictly biochemical).

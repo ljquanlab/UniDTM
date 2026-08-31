@@ -1,0 +1,1 @@
+Please analyze the following protein and generate a strictly objective biological and structural description based on its sequence.
