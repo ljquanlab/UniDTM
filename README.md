@@ -6,6 +6,22 @@ UniDTM is a multi-modal ensemble framework for drug–target related tasks, supp
 
 ![UniDTM](architecture.jpg)
 
+## Baselines
+
+[GraphDTA](https://github.com/thinng/GraphDTA)：https://doi.org/10.1093/bioinformatics/btaa921
+
+[DeepDTAGen](https://github.com/CSUBioGroup/DeepDTAGen)：https://doi.org/10.1038/s41467-025-59917-6
+
+[DTIAM](https://github.com/CSUBioGroup/DTIAM)：https://doi.org/10.1038/s41467-025-57828-0
+
+[TransformerCPI](https://github.com/lifanchen-simm/transformerCPI)：https://doi.org/10.1093/bioinformatics/btaa524
+
+[GraphBAN]( https://github.com/HamidHadipour/GraphBAN)：https://doi.org/10.1038/s41467-025-57536-9
+
+[CMMSCL-DPI](https://zenodo.org/records/18326108)：https://doi.org/10.1186/s12915-026-02533-7
+
+[AI-DTI](https://bitbucket.org/NNSM/ai_dti)：https://doi.org/10.1371/journal.pone.0282042
+
 ## Preparation
 
 Clone this repository or download the code as a ZIP archive.
